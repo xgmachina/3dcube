@@ -1,4 +1,4 @@
-# 3d cube
+# A 3D Cube Matrix for Exploring Co-relationship between Elements and Minerals
 A project to use 3D visualization to explore patterns in the co-relationships between elements and mineral species. The demo system https://goo.gl/UNbdok is optimized to run in Chrome and Safari.
 
 There are three datasets for the demo system: 
