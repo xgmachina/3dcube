@@ -3,9 +3,9 @@ A project to use 3D visualization to explore patterns in the co-relationships be
 
 There are three datasets for the demo system: 
 
-1) A 30*30*30 3D matrix for mineral species numbers. The value in each cell represents the number of minerals species that contain the three element X, Y and Z.
-2) A 30*30*30 3D matrix for mineral species fractions. The value in each cell represents the fraction of mineral species containing Z that also contain both X and Y.
-3) A 72*72*72 3D matrix for mineral species. The value in each cell is the result of a chi-squared test to show the effect of the presence of element Z on the correlation between elements X and Y in mineral species?’
+1) A 30x30x30 3D matrix for mineral species numbers. The value in each cell represents the number of minerals species that contain the three element X, Y and Z.
+2) A 30x30x30 3D matrix for mineral species fractions. The value in each cell represents the fraction of mineral species containing Z that also contain both X and Y.
+3) A 72x72x72 3D matrix for mineral species. The value in each cell is the result of a chi-squared test to show the effect of the presence of element Z on the correlation between elements X and Y in mineral species?’
 
 All three datasets are from the DTDI research team members (credit RRUFF.info and dtdi.carnegiescience.edu).
 
