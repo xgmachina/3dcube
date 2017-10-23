@@ -22,7 +22,7 @@ The general workflow is as below:
 
 
 
-4) For each loaded dataset, the user can also click the ‘Visualize All Elements’ button to visualize everything in the raw data, which however is not recommended because that will take a lot of computation power and may crash the memory of your computer, especially for the 72*72*72 dataset. 
+4) For each loaded dataset, the user can also click the ‘Visualize All Elements’ button to visualize everything in the raw data, which however is not recommended because that will take a lot of computation power and may crash the memory of your computer, especially for the 72x72x72 dataset. 
  
 5) On the main user interface, the user can click Clear All to clear the current element selections and start a new session. 
 
